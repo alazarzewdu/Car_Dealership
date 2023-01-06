@@ -1,7 +1,6 @@
 package com.example.car_dealership;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class registration extends AppCompatActivity {
