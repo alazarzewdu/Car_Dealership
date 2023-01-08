@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "283821259683",
-    "project_id": "car-dealership-ac882",
-    "storage_bucket": "car-dealership-ac882.appspot.com"
+    "project_number": "661157045240",
+    "project_id": "infinity-3a964",
+    "storage_bucket": "infinity-3a964.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:283821259683:android:e16e828f1457cd52627816",
+        "mobilesdk_app_id": "1:661157045240:android:9d12c40771fe45514f2c0d",
         "android_client_info": {
           "package_name": "com.example.car_dealership"
         }
       },
       "oauth_client": [
         {
-          "client_id": "283821259683-vug5l1fsde4srjfhjvjacmgcvuht7uls.apps.googleusercontent.com",
+          "client_id": "661157045240-n9q6cingpk9cdqn403hpm9h1htjl5iar.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD7eihYSlsOhQtAiHWEvgrN_lO2IXC2pcU"
+          "current_key": "AIzaSyCWwu8bRcMxWFM8qJHdXd8yKin9zRxXy_Y"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "283821259683-vug5l1fsde4srjfhjvjacmgcvuht7uls.apps.googleusercontent.com",
+              "client_id": "661157045240-n9q6cingpk9cdqn403hpm9h1htjl5iar.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
